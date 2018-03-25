@@ -73,7 +73,10 @@
 .item-wrapper .a {
     border-bottom: 3px solid #15702d;
 }
-
+.item-wrapper .item .blk {
+    display: block;
+    color: #000;
+}
 /*插入元素样式 通用样式*/
 
 .item-wrapper .item_1 .item-img {
@@ -116,10 +119,6 @@
     line-height: 90px;
     font-size: 30px;
 }
-.item-wrapper .item-wrapper-a  .item_1 .item .item-txt p{
-    width:440px;
-    height: 46px;
-}
 .item-wrapper .item_1 .item  .btn-wrapper .p-title {
     margin-top: 43px;
 }
@@ -138,17 +137,31 @@
 }
 .item-wrapper .item  .btn-wrapper .p-title span {
     display: inline-block;
+    color: #fff;
 }
 .item-wrapper .item .btn-wrapper .p-num .hlight {
     float: left;
     color: #f8f11c;
 }
-.item-wrapper .item .btn-wrapper  a{
+.item-wrapper .item .btn-wrapper  button{
     display: block;
-    color: #fff;
     float: right;
     margin-right: 5px;
+    background: none;
+    border:0;
+    color: #fff;
+    cursor: pointer;
     text-decoration: none;
+    outline: none;
+}
+.item-wrapper .item_1 .btn-wrapper  button{
+    line-height: 90px;
+}
+.item-wrapper .item_4 .btn-wrapper  button{
+    line-height: 45px;
+}
+.item-wrapper .item_4 .btn-wrapper .p-title span{
+    line-height: normal;
 }
 .item-wrapper .item .r_wrapper  .item-txt {
     color: #000;
@@ -214,7 +227,7 @@
 .item-wrapper .item-wrapper-a .item_2 .btn-wrapper .p-title span {
     font-size: 30px;
 }
-.item-wrapper .item-wrapper-a .item_2 .btn-wrapper a{
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper button{
     display: block;
     font-size: 33px;
     line-height: 91px;
