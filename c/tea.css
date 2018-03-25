@@ -1,0 +1,285 @@
+.banner {
+    position: relative;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/bg.jpg") repeat;
+    overflow: hidden;
+}
+
+.banner .banner-l {
+    position: absolute;
+    left: 50%;
+    width: 633px;
+    height: 981px;
+    margin-left: -950px;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/banner_l.jpg") no-repeat top center;
+}
+
+.banner .banner-m {
+    width: 635px;
+    height: 981px;
+    margin: 0 auto;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/banner_m.jpg") no-repeat top center;
+}
+
+.banner .banner-r {
+    position: absolute;
+    right: 50%;
+    top: 0;
+    margin-right: -951px;
+    width: 634px;
+    height: 981px;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/banner_r.jpg") no-repeat top center;
+}
+
+.item-wrapper {
+    width: 100%;
+    height: 6230px;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/bg.jpg") repeat 0 0;
+}
+.item-wrapper .item-subtitle-a {
+    width: 1225px;
+    height: 105px;
+    margin: 0 auto;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/sub-title.png") no-repeat 0 0;
+}
+
+.item-wrapper .item-wrapper-a {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.item-wrapper .item-wrapper-a .item_1 .f_img {
+    width: 480px;
+    height: 227px;
+    float: right;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/bg.jpg") no-repeat 0 0;
+}
+
+/*插入元素样式 通用样式*/
+.item-wrapper .item_1 {
+    position: relative;
+}
+.item-wrapper .item_1 .insertImg {
+    width: 480px;
+    height: 226px;
+    background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/f_title.png") no-repeat 0 0;
+}
+.item-wrapper .a {
+    border-bottom: 3px solid #15702d;
+}
+.item-wrapper .b {
+    height: 1150px;
+}
+/*插入元素样式 通用样式*/
+.item-wrapper .item_1{
+    width: 94%;
+    margin: 0 auto 22px auto;
+
+    position: relative;
+}
+.item-wrapper .item_1 .item-img {
+    width: 510px;
+    height: 550px;
+    margin-left: 15px;
+}
+.item-wrapper .item_1  .item-img img{
+    width:499px;
+    height: 499px;
+}
+.item-wrapper .item_1 .r_wrapper {
+    position: absolute;
+    top: 0;
+    left: 600px;
+    margin-left: 0;
+    width: 488px;
+}
+.item-wrapper .item_1 .item .item-txt {
+    height:134px;
+    margin-bottom: 15px;
+    color:#000;
+    font-size:39px;
+}
+.item-wrapper .item_1 .item   .btn-wrapper {
+    width: 488px;
+    height: 90px;
+}
+
+.item-wrapper .item_1 .item  .btn-wrapper .p-title {
+    width: 123px;
+    height: 40px;
+    line-height: 40px;
+}
+.item-wrapper .item_1 .item  .btn-wrapper .p-num .hlight {
+    font-size: 50px;
+    margin-top: 10px;
+}
+.item-wrapper .item_1 .item  .btn-wrapper {
+    height: 90px;
+    line-height: 90px;
+    font-size: 30px;
+}
+.item-wrapper .item-wrapper-a  .item_1 .item .item-txt p{
+    width:440px;
+    height: 46px;
+}
+.item-wrapper .item_1.item  .btn-wrapper .p-title {
+    margin-top: 43px;
+}
+
+    /*通用样式*/
+.item-wrapper .item .btn-wrapper {
+    position: relative;
+    color:#fff;
+    background-color: #15702d;
+    border:1px solid #6b562b;
+}
+.item-wrapper .item  .btn-wrapper .p-title {
+    float: left;
+    margin-left: 10px;
+
+}
+.item-wrapper .item .btn-wrapper .p-num .hlight {
+    float: left;
+    color: #f8f11c;
+}
+.item-wrapper .item .btn-wrapper  a{
+    display: block;
+    color: #fff;
+    float: right;
+    margin-right: 5px;
+    text-decoration: none;
+}
+.item-wrapper .item .r_wrapper  .item-txt {
+    color: #000;
+    text-decoration: none;
+}
+.item-wrapper .item_1 .item .btn-wrapper .p-num a{
+    display: block;
+    float: right;
+    font-size: 35px;
+}
+.item-wrapper .item-wrapper-a  .item-txt p:hover {
+    text-decoration: none;
+}
+/*通用样式*/
+.item-wrapper .item-wrapper-a .item_2 {
+    width: 89%;
+    height: 750px;
+    margin: 0 auto;
+}
+
+.item-wrapper .item-wrapper-a .item_2 {
+    width: 94%;
+    margin: 0 auto;
+}
+.item-wrapper .item-wrapper-a .item_2 .item {
+    width: 47%;
+    height: 703px;
+    float: left;
+}
+.item-wrapper .item-wrapper-a .item_2 .item-img {
+    width: 495px;
+    margin: 0 auto;
+}
+.item-wrapper .item-wrapper-a .item_2 .item-img img {
+    width: 495px;
+    height: 495px;
+}
+.item-wrapper .item-wrapper-a .item_2 .item-txt {
+    width: 495px;
+    height: 140px;
+}
+.item-wrapper .item-wrapper-a .item_2 .item-txt p {
+    font-size: 38px;
+}
+
+.item-wrapper .item-wrapper-a .item_2 .r_wrapper
+{
+    width: 495px;
+    margin: 0 auto;
+}
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper{
+    width: 486px;
+    height: 88px;
+}
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper .p-title {
+    line-height: 110px;
+}
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper .p-title span {
+    font-size: 30px;
+}
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper a{
+    display: block;
+    font-size: 33px;
+    line-height: 91px;
+}
+.item-wrapper .item-wrapper-a .item_2 .btn-wrapper .p-num{
+    font-size: 40px;
+    line-height: 107px;
+}
+.item-wrapper .item-wrapper-a .item_4 {
+    width: 1020px;
+    height: 1000px;
+    padding-left: 50px;
+}
+.item-wrapper .item-wrapper-a .item_4 .item{
+    width:25%;
+    height:386px;
+    float:left;
+}
+.item-wrapper .item-wrapper-a .item_4 .item .item-txt {
+    height: 79px;
+    width: 248px;
+}
+.item-wrapper .item-wrapper-a .item_4 .item img{
+    width: 248px;
+    height: 248px;
+}
+
+.item-wrapper .item-wrapper-a .item_4 .item-txt p {
+    width:248px;
+    font-size: 20px;
+}
+.item-wrapper .item-wrapper-a  .item_4 .btn-wrapper {
+    position: relative;
+    width: 248px;
+    height:45px;
+    line-height: 45px;
+}
+.item-wrapper .item_4 .item .r_wrapper {
+    position: relative;
+}
+.item-wrapper .item_4 .item .btn-wrapper a {
+    font-size:20px;
+}
+.item-wrapper .item-wrapper-a  .item_4 .btn-wrapper .p-title  {
+    font-size:15px;
+    margin-top: 7px;
+}
+.item-wrapper .item_4 .item .btn-wrapper .p-title {
+    margin-left: 4px;
+    font-family: "Microsoft Himalaya";
+}
+.item-wrapper .item-wrapper-a  .item_4 .btn-wrapper .p-num {
+    height: 30px;
+    position: absolute;
+    left: 54px;
+}
+
+.item-wrapper .item_4 .item .btn-wrapper .p-num .hlight {
+    display: block;
+    font-size: 23px;
+    font-weight: 800;
+    margin-left: 10px;
+}
+.item-subtitle-b {
+    width: 1225px;
+    height: 136px;
+    margin: 174px auto 0 auto;
+    background: url(//i2.beta.ule.com/i/event/2018/0321/yctea/sub-title.png) no-repeat 0 -97px;
+}
+.item-subtitle-c {
+    width: 1225px;
+    height: 153px;
+    margin: -183px auto 0 auto;
+    background: url(//i2.beta.ule.com/i/event/2018/0321/yctea/sub-title.png) no-repeat 0 -223px;
+}
