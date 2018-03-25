@@ -4,7 +4,7 @@ var Rachel =
 
         data: {restype: 2001, moduleKeys:'event_yichang_01,event_yichang_02,event_yichang_03' },
         init: function () {
-            this.substitute();``
+            this.substitute();
             this.getList();
         },
         apis: {

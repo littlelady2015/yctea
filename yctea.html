@@ -24,15 +24,15 @@
     <div class="item-subtitle-a">
     </div>
     <div class="item-wrapper-a">
-        <div class="item_1 a"></div>
-        <div class="item_4 b"></div>
+        <div class="item_1 a clearfix"></div>
+        <div class="item_4 b clearfix"></div>
     </div>
     <div class="item-subtitle-b">
     </div>
     <div class="item-wrapper-a">
-        <div class="item_1 c"></div>
-        <div class="item_2 d"></div>
-        <div class="item_4 e"></div>
+        <div class="item_1 c clearfix"></div>
+        <div class="item_2 d clearfix"></div>
+        <div class="item_4 e clearfix"></div>
     </div>
     <div class="item-subtitle-c">
     </div>
@@ -50,19 +50,18 @@
     <p>本活动最终归邮乐所有</p>
 </div>
 <script type="text/template" id="itemTpl">
-
-    <div class="item" src="{listingUrl}">
-        <a href="{listingUrl}">
+    <div class="item">
+        <a target="_blank" href="{listingUrl}">
             <div class="item-img">
                 <img src="{imgUrl}" alt="{listingName}">
                 <!--此处插入右侧图片-->
             </div>
             <div class="r_wrapper">
             <div class="item-txt">
-                <p >{listingName}</p>
+                <p title="{listingName}">{listingName}</p>
             </div>
             <div class="btn-wrapper">
-                <a href="{listingUrl}">立即抢购></a>
+                <a href="{listingUrl}">立即抢购&gt;</a>
                 <div class="p-title">
                     <span>新品价</span><span>￥</span>
                 </div>
