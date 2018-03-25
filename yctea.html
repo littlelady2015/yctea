@@ -18,64 +18,84 @@
 <div class="banner">
     <div class="banner-l"></div>
     <div class="banner-m"></div>
-    <div class="banner-r"></div>
+    <div class="banner-r" id="trip"></div>
 </div>
+<ul class="slider">
+    <li><a href="#trip">&gt;满赠景点套票</a></li>
+    <li><a href="#yp">&gt;明前御品贡茶</a></li>
+    <li><a href="#qg">&gt;好茶抢购试喝</a></li>
+    <li><a href="#ny">&gt;明前嫩芽毛尖</a></li>
+    <li><a href="#rule">&gt;活动规则</a></li>
+    <li><a href="#">&gt;回到顶部</a></li>
+</ul>
 <div class="item-wrapper">
-    <div class="item-subtitle-a">
+    <div class="item-subtitle-a" id="yp">
     </div>
-    <div class="item-wrapper-a">
+    <div class="item-wrapper-a clearfix">
         <div class="item_1 a clearfix"></div>
         <div class="item_4 b clearfix"></div>
     </div>
-    <div class="item-subtitle-b">
+    <div class="item-subtitle-b" id="qg">
     </div>
-    <div class="item-wrapper-a">
+    <div class="item-wrapper-a clearfix">
         <div class="item_1 c clearfix"></div>
         <div class="item_2 d clearfix"></div>
         <div class="item_4 e clearfix"></div>
     </div>
-    <div class="item-subtitle-c">
+    <div class="item-subtitle-c" id="ny">
     </div>
-    <div class="item-wrapper-a">
+    <div class="item-wrapper-a clearfix">
         <div class="item_2 f"></div>
         <div class="item_4 g"></div>
     </div>
 </div>
 <div class="end">
-    <div class="spot"></div>
-<h1>活动规则</h1>
-    <p>活动时间：</p>
-    <p>本次春茶节</p>
-    <p>在参与本活动中</p>
-    <p>本活动最终归邮乐所有</p>
+    <div id="rule" class="rule">
+        <h1>活动规则</h1>
+        <div class="txt">
+            <div class="circle">1</div>
+            <p> 活动时间：2018年03月25日至2018年04月15日；</p>
+        </div>
+        <div class="txt">
+        <div class="circle">2</div>
+            本次春茶节凡购买五峰蓝产品单笔订单满999元，送后河+长生洞景区套票一张，市场价170元，共50张，赠完即止，满1998赠送套票两张，以此类推，景区套票使用截止日期2018年12月31号，节假日不i影响使用；
+        </div>
+        <div class="txt">
+        <div class="circle">3</div>
+        在参与本活动过程中，如果出现违规行为（如作弊领取、恶意套现、虚假交易等），邮乐将取消您的订单，并有权撤销违规交易，收回相关景区赠票，必要时追究法律责任；
+        </div>
+        <div class="txt">
+        <div class="circle">4</div>
+        本活动最终解释权归邮乐所有。
+        </div>
+    </div>
 </div>
 <script type="text/template" id="itemTpl">
     <div class="item clearfix">
-
-            <div class="item-img">
-                <a class="blk" target="_blank" href="{listingUrl}">
-                    <img src="{imgUrl}" alt="{listingName}">
-                </a>
-                <!--此处插入右侧图片-->
-            </div>
-            <div class="r_wrapper">
+        <div class="item-img">
+            <a class="blk" target="_blank" href="{listingUrl}">
+                <img src="{imgUrl}" alt="{listingName}">
+            </a>
+            <!--此处插入右侧图片-->
+        </div>
+        <div class="r_wrapper">
             <div class="item-txt">
                 <p title="{listingName}"><a class="blk" target="_blank" href="{listingUrl}">{listingName}</a></p>
             </div>
             <div class="btn-wrapper">
 
                 <a class="blk clearfix" target="_blank" href="{listingUrl}">
-                        <button>立即抢购&gt;</button>
+                    <button>立即抢购&gt;</button>
                     <div class="p-title">
                         <span>新品价</span><span>￥</span>
                     </div>
                     <div class="p-num clearfix">
-                            <span class="hlight">{minPrice}</span>
-                      </div>
+                        <span class="hlight">{minPrice}</span>
+                    </div>
                 </a>
             </div>
 
-            </div>
+        </div>
 
     </div>
 </script>

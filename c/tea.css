@@ -29,10 +29,26 @@
     height: 981px;
     background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/banner_r.jpg") no-repeat top center;
 }
-
+.slider {
+    position: fixed;
+    top: 120px;
+    right: 50px;
+    width: 160px;
+    height: 445px;
+    padding-top: 120px;
+    padding-left: 50px;
+    background: url(//i2.beta.ule.com/i/event/2018/0321/yctea/slider.png) no-repeat top center;
+}
+.slider li {
+    height: 30px;
+    font-size: 16px;
+    color: #ffeece;
+}
+.slider li a {
+    color: #ffeece;
+}
 .item-wrapper {
     width: 100%;
-    height: 6230px;
     background: url("//i2.beta.ule.com/i/event/2018/0321/yctea/bg.jpg") repeat 0 0;
 }
 .item-wrapper .item-subtitle-a {
@@ -304,4 +320,38 @@
     height: 153px;
     margin:10px auto;
     background: url(//i2.beta.ule.com/i/event/2018/0321/yctea/sub-title.png) no-repeat 0 -223px;
+}
+.end {
+    height: 335px;
+    color: #fff;
+background-color: #287804;
+}
+.end .rule {
+    width: 930px;
+    line-height: 35px;
+    margin: 0 auto;
+}
+.end .rule h1 {
+    height: 25px;
+    font-size: 24px;
+    padding:45px 0 25px;
+}
+.end .rule .txt{
+    position: relative;
+    padding-left: 30px;
+    font-size: 18px;
+}
+.end .rule .circle {
+    position: absolute;
+    left: 0;
+    top: 5px;
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+    color: #205b97;
+    line-height: 25px;
+    vertical-align: center;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 11px;
 }
