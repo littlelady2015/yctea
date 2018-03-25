@@ -177,10 +177,11 @@
     margin: 0 auto;
 }
 .item-wrapper .item-wrapper-a .item_2 .item {
-    width: 500px;
-    padding-left: 50px;
+    width: 495px;
+    margin: 0 5px;
     height: 703px;
     float: left;
+}
 }
 .item-wrapper .item-wrapper-a .item_2 .item-img {
     width: 495px;
