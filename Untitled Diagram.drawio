@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T09:57:40.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="6JpuaqUDml0UuELPKpf6" version="14.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T09:58:30.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="B3iFexeQDP0GbWcK4UMj" version="14.6.5" type="github">
   <diagram id="aLa3FHg2r4vYx-vsww85" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,7 +144,7 @@
         <mxCell id="XcSG3mJqiO2_OLah6neF-50" value="fetch数据&lt;br&gt;组装区块数据（新增）&lt;br&gt;format数据" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="520" y="628" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XcSG3mJqiO2_OLah6neF-52" value="暂存defaultData" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XcSG3mJqiO2_OLah6neF-52" value="暂存初始状态&lt;br&gt;cacheData" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="670" y="628" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
