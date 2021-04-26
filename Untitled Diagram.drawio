@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T08:39:06.673Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="jROUxeNVQ20K2nfVT2Jr" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T08:58:03.354Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="ttlLKvFqepbwooQFeFuC" version="14.6.6" type="github">
   <diagram id="aLa3FHg2r4vYx-vsww85" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,11 +85,11 @@
         <mxCell id="XcSG3mJqiO2_OLah6neF-37" value="区块" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="150" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_uVuRhLHYEGN4kHdgzv3-5" value="state:&lt;br&gt;showAddField&lt;br&gt;datasource&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;reducer: datasource&lt;br&gt;&lt;/span&gt;(add, modify)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="949" y="863" width="140" height="167" as="geometry" />
+        <mxCell id="_uVuRhLHYEGN4kHdgzv3-5" value="props:&lt;br&gt;testId&lt;br&gt;&lt;br&gt;state:&lt;br&gt;showAddField&lt;br&gt;datasource&lt;br&gt;&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;reducer: datasource&lt;br&gt;&lt;/span&gt;(add, modify)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="960" y="865" width="140" height="167" as="geometry" />
         </mxCell>
         <mxCell id="_uVuRhLHYEGN4kHdgzv3-11" value="添加新字段&lt;br&gt;&lt;br&gt;context.dispatch({action: &#39;add&#39;, {...}})" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="960" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="960" y="640" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_uVuRhLHYEGN4kHdgzv3-12" value="context.title" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="760" width="40" height="20" as="geometry" />
@@ -109,9 +109,9 @@
             <mxPoint x="1030" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uVuRhLHYEGN4kHdgzv3-20" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="_uVuRhLHYEGN4kHdgzv3-20" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950" y="891.75" as="sourcePoint" />
+            <mxPoint x="957" y="892" as="sourcePoint" />
             <mxPoint x="831" y="892" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -137,8 +137,8 @@
         <mxCell id="_uVuRhLHYEGN4kHdgzv3-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left&quot;&gt;datasource&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="880" y="863" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_uVuRhLHYEGN4kHdgzv3-25" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; text-align: left&quot;&gt;showAddField&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="1049" y="770" width="40" height="20" as="geometry" />
+        <mxCell id="_uVuRhLHYEGN4kHdgzv3-25" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;showAddField，&lt;br&gt;testId&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#E1D5E7;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="770" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_uVuRhLHYEGN4kHdgzv3-26" value="wrapper" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#33001A;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="40" height="20" as="geometry" />
