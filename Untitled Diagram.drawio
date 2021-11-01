@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T08:01:34.975Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="zW_Fw_x21JKTjDP5LO_z" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T08:12:16.143Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="VGTHIhFu8xdLQJZlpcew" version="15.5.9" type="github">
   <diagram id="uQdcCLFuXmKUxZTlDSwe" name="Page-1">
-    <mxGraphModel dx="2253" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2505" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="660" width="750" height="480" as="geometry" />
+          <mxGeometry x="70" y="10" width="750" height="1130" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="50" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-2" value="付款计划弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -42,14 +42,14 @@
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-41" value="传入表单配置formConfig" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="440" y="200" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-43" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-43" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="550" y="680" width="240" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-73" value="" style="group" vertex="1" connectable="0" parent="ZeTLu1GYJVtiNdQ12-q6-43">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-73" value="" style="group;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" connectable="0" parent="ZeTLu1GYJVtiNdQ12-q6-43">
           <mxGeometry y="-8.357142857142858" width="240" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZeTLu1GYJVtiNdQ12-q6-73">
-          <mxGeometry width="240" height="390" as="geometry" />
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ZeTLu1GYJVtiNdQ12-q6-73">
+          <mxGeometry y="17.64" width="240" height="390" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-44" value="木偶组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZeTLu1GYJVtiNdQ12-q6-73">
           <mxGeometry y="360" width="50" height="30" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-38" value="付款期数卡片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZeTLu1GYJVtiNdQ12-q6-43">
           <mxGeometry width="46.28571428571428" height="46.8" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZeTLu1GYJVtiNdQ12-q6-36">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZeTLu1GYJVtiNdQ12-q6-36" target="ZeTLu1GYJVtiNdQ12-q6-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="760" as="sourcePoint" />
             <mxPoint x="315" y="660" as="targetPoint" />
@@ -160,6 +160,22 @@
               <mxPoint x="480" y="1032" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-93" value="data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="414" y="896" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.441;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZeTLu1GYJVtiNdQ12-q6-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="1080" as="sourcePoint" />
+            <mxPoint x="550" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1110" />
+              <mxPoint x="140" y="1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-95" value="onDelete(index)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1079" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
