@@ -1,43 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2021-11-02T06:11:45.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="9WfGYU8pna2ZEjVAJ1BE" version="15.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-28T07:45:42.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="4Aubo54sIn8ZM12WnYZw" version="16.1.0" type="github">
   <diagram id="uQdcCLFuXmKUxZTlDSwe" name="Page-1">
-    <mxGraphModel dx="2253" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="70" y="10" width="750" height="1130" as="geometry" />
+          <mxGeometry x="-70" y="10" width="890" height="1130" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="80" y="50" width="360" height="360" as="geometry" />
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-1" value="/" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="40" y="30" width="380" height="380" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-2" value="付款计划弹窗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="50" width="90" height="30" as="geometry" />
+          <mxGeometry x="60" y="30" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-3" value="木偶组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="380" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-23" value="config" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="110" width="210" height="120" as="geometry">
-            <mxRectangle x="220" y="110" width="60" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-24" value="component" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-23" vertex="1">
-          <mxGeometry y="30" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-25" value="validator" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-23" vertex="1">
-          <mxGeometry y="60" width="210" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-85" value="status: &#39;normal&#39; | &#39;readonly| &#39;disabled&#39;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-23" vertex="1">
-          <mxGeometry y="90" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-28" value="保存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="381" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-36" value="更新data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="410" width="60" height="160" as="geometry" />
+          <mxGeometry x="218.63" y="410" width="60" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-39" value="表单" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="100" width="110" height="260" as="geometry" />
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-39" value="&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;font style=&quot;font-size: 8px ; background-color: rgb(255 , 255 , 255)&quot;&gt;渲染标准付款表单&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="81.28999999999999" y="90" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-41" value="传入表单配置formConfig" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="440" y="200" width="150" height="20" as="geometry" />
@@ -54,31 +40,31 @@
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-44" value="木偶组件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZeTLu1GYJVtiNdQ12-q6-73" vertex="1">
           <mxGeometry y="360" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-88" value="function renderFields" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="ZeTLu1GYJVtiNdQ12-q6-73" vertex="1">
-          <mxGeometry y="147.64285714285714" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-89" value="付款周期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-88" vertex="1">
-          <mxGeometry y="30" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-90" value="期数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-88" vertex="1">
-          <mxGeometry y="56" width="140" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-91" value="计划付款时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-88" vertex="1">
-          <mxGeometry y="80" width="140" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-92" value="付款比例" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-88" vertex="1">
-          <mxGeometry y="105" width="140" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-49" value="state" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="ZeTLu1GYJVtiNdQ12-q6-73" vertex="1">
           <mxGeometry x="50" y="8.357142857142858" width="120" height="71.78571428571428" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-50" value="isFolded" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-49" vertex="1">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-50" value="unfold" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="ZeTLu1GYJVtiNdQ12-q6-49" vertex="1">
           <mxGeometry y="30" width="120" height="41.785714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-8" value="展示字段" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="ZeTLu1GYJVtiNdQ12-q6-73">
+          <mxGeometry x="20" y="118.35714285714289" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-9" value="金额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="iQpuf1PAQ4ytrovD1hVf-8">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-10" value="比例" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="iQpuf1PAQ4ytrovD1hVf-8">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-12" value="可支付/待支付/已支付" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="iQpuf1PAQ4ytrovD1hVf-8">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-11" value="备注...." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="iQpuf1PAQ4ytrovD1hVf-8">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-38" value="付款期数卡片" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ZeTLu1GYJVtiNdQ12-q6-43" vertex="1">
           <mxGeometry width="46.28571428571428" height="46.8" as="geometry" />
         </mxCell>
-        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZeTLu1GYJVtiNdQ12-q6-36" target="ZeTLu1GYJVtiNdQ12-q6-4" edge="1">
+        <mxCell id="ZeTLu1GYJVtiNdQ12-q6-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZeTLu1GYJVtiNdQ12-q6-36" target="ZeTLu1GYJVtiNdQ12-q6-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="760" as="sourcePoint" />
             <mxPoint x="315" y="660" as="targetPoint" />
@@ -176,6 +162,12 @@
         </mxCell>
         <mxCell id="ZeTLu1GYJVtiNdQ12-q6-95" value="onDelete(index)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="1079" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-1" value="&lt;div style=&quot;line-height: 18px&quot;&gt;&lt;font style=&quot;font-size: 8px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;周期付款表单&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="iQpuf1PAQ4ytrovD1hVf-2" value="&lt;span style=&quot;text-align: left&quot;&gt;isStandardPayment？&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="195" y="40" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
