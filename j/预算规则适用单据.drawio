@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T03:36:13.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="21.6.6" etag="om6qmrmRXabYSFK7-hxf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T07:47:52.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mZSVHe9lyzdo9aKIbhtQ" version="21.6.6" type="github">
   <diagram name="第 1 页" id="2xmzUT3VNTgOUyJ2_TiB">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据存储budgetStore&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="320" y="182" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-2" value="服务端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="85" width="100" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-3" value="逻辑层" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="258" y="85" width="132" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-4" value="&lt;span style=&quot;white-space: normal&quot;&gt;数据层&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="85" width="100" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;数据存储budgetStore&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="ctdOLiL8IiuOm8BQRJJL-4">
+          <mxGeometry x="-105" y="206.5" width="145" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-43" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startArrow=oval;startFill=1;" edge="1" parent="ctdOLiL8IiuOm8BQRJJL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-104.5" y="236.5" as="sourcePoint" />
+            <mxPoint x="50" y="237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;自定义档案下拉选项&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;" vertex="1" parent="ctdOLiL8IiuOm8BQRJJL-4">
+          <mxGeometry x="53" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="378" y="-172" width="25" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-7" value="[操作]选择预算方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="33" y="150" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-12" value="视图层" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="85" width="100" height="395" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-44" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="ctdOLiL8IiuOm8BQRJJL-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="240" as="sourcePoint" />
+            <mxPoint x="50" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-34" value="" style="endArrow=classic;html=1;strokeColor=#000000;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160.75" y="212" as="sourcePoint" />
+            <mxPoint x="320.25" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-35" value="获取明细控制字段" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190.75" y="191" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-36" value="" style="endArrow=classic;html=1;rounded=0;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321.5" y="212" as="sourcePoint" />
+            <mxPoint x="481.5" y="212" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-30" value="" style="endArrow=classic;html=1;strokeColor=#000000;startArrow=oval;startFill=1;" edge="1" parent="1" target="ctdOLiL8IiuOm8BQRJJL-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161" y="160" as="sourcePoint" />
+            <mxPoint x="320.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-31" value="获取方案数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="139" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-38" value="[操作]选择&lt;br&gt;自定义档案类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="33" y="308" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-39" value="" style="endArrow=classic;html=1;strokeColor=#000000;startArrow=oval;startFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161" y="321" as="sourcePoint" />
+            <mxPoint x="320" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ctdOLiL8IiuOm8BQRJJL-40" value="获取档案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="191" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
