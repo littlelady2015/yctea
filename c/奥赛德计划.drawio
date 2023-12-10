@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T03:19:09.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FDNsKQmXs5UPBJStWBnK" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T03:19:41.243Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ohntb01n5Q5zSRyytY8Q" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,7 +34,7 @@
         </object>
         <object label="努力" status="In progress" id="AhhsZ49npr2kLPAkrbk7-6">
           <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-1">
-            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
+            <mxGeometry x="180" y="28" width="180" height="416" as="geometry" />
           </mxCell>
         </object>
         <object label="考雅思" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-24">
@@ -50,6 +50,16 @@
         <object label="学习数学&lt;br&gt;头痛？？？" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-26">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-6">
             <mxGeometry x="20" y="179" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="未来的方向" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-34">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-6">
+            <mxGeometry x="20" y="258" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="需要的技能" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-52">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-6">
+            <mxGeometry x="20" y="337" width="140" height="59" as="geometry" />
           </mxCell>
         </object>
         <object label="进阶" status="In progress" id="AhhsZ49npr2kLPAkrbk7-14">
