@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T03:22:19.685Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="MTeB53ig0f9JRIlg0lSX" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T03:28:57.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="2DodSztcoZYyrSs87bcZ" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,89 @@
         </object>
         <object label="销售总监" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-31">
           <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AEABFC;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#6c8ebf;gradientColor=#fffafa;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-9">
+            <mxGeometry x="20" y="21" width="140" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="AhhsZ49npr2kLPAkrbk7-55" value="" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=28;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=none;fontFamily=Permanent Marker;fontSize=16;points=[];verticalAlign=top;stackBorder=0;resizable=1;strokeWidth=2;sketch=1;disableMultiStroke=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="720" height="440" as="geometry" />
+        </mxCell>
+        <object label="起步" status="New" id="AhhsZ49npr2kLPAkrbk7-56">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#A0522D;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-55">
+            <mxGeometry y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="尝试去应聘主播" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-57">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-56">
+            <mxGeometry x="20" y="21" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="我更快乐了吗？" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-58">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-56">
+            <mxGeometry x="20" y="100" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="我每天精神饱满吗？" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-59">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-56">
+            <mxGeometry x="20" y="179" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="我会更有钱吗" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-60">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-56">
+            <mxGeometry x="20" y="258" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="努力" status="In progress" id="AhhsZ49npr2kLPAkrbk7-61">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-55">
+            <mxGeometry x="180" y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="研究商业逻辑" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-62">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-61">
+            <mxGeometry x="20" y="21" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="学习&lt;br&gt;商业相关课程" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-63">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-61">
+            <mxGeometry x="20" y="100" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="学习变美" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-64">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-61">
+            <mxGeometry x="20" y="179" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="进阶" status="In progress" id="AhhsZ49npr2kLPAkrbk7-67">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#006600;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-55">
+            <mxGeometry x="360" y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="有自己的个人IP" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-68">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-67">
+            <mxGeometry x="20" y="21" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="开公司" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-69">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-67">
+            <mxGeometry x="20" y="100" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="时间自由" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-70">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-67">
+            <mxGeometry x="20" y="179" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="技能迁移" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-71">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#d6b656;gradientColor=#f7bbe4;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-67">
+            <mxGeometry x="20" y="258" width="140" height="59" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="未来" status="Completed" id="AhhsZ49npr2kLPAkrbk7-72">
+          <mxCell style="swimlane;strokeWidth=2;fontFamily=Permanent Marker;html=0;startSize=1;verticalAlign=bottom;spacingBottom=5;points=[];childLayout=stackLayout;stackBorder=20;stackSpacing=20;resizeLast=0;resizeParent=1;horizontalStack=0;collapsible=0;sketch=1;strokeColor=none;fillStyle=solid;fillColor=#1BA1E2;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-55">
+            <mxGeometry x="540" y="28" width="180" height="412" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="自主创业" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-73">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AEABFC;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#6c8ebf;gradientColor=#fffafa;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-72">
             <mxGeometry x="20" y="21" width="140" height="50" as="geometry" />
           </mxCell>
         </object>
