@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T03:17:57.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="BBU_MnAJ2xxfj9X9z-Z3" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T03:19:09.826Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="FDNsKQmXs5UPBJStWBnK" version="22.1.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,13 +72,13 @@
             <mxGeometry x="540" y="28" width="180" height="412" as="geometry" />
           </mxCell>
         </object>
-        <object label="销售总监" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-31">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-9">
+        <object label="产品总监" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-32">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AEABFC;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#6c8ebf;gradientColor=#fffafa;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-9">
             <mxGeometry x="20" y="21" width="140" height="50" as="geometry" />
           </mxCell>
         </object>
-        <object label="产品总监" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-32">
-          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=swimlane;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];sketch=1;fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-9">
+        <object label="销售总监" placeholders="1" id="AhhsZ49npr2kLPAkrbk7-31">
+          <mxCell style="whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#AEABFC;fontStyle=1;spacingTop=0;rounded=1;arcSize=9;points=[];fontFamily=Permanent Marker;hachureGap=8;fillWeight=1;strokeColor=#6c8ebf;gradientColor=#fffafa;" vertex="1" parent="AhhsZ49npr2kLPAkrbk7-9">
             <mxGeometry x="20" y="91" width="140" height="50" as="geometry" />
           </mxCell>
         </object>
